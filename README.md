@@ -1,2 +1,3 @@
-# app
-Created with CodeSandbox
+# Strenght analysis for advanced ceramics
+
+devoloping user interface by using fullstack
