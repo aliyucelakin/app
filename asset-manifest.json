@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/aliyucelakin.github.io/app/static/js/main.70a67046.chunk.js",
-    "main.js.map": "/aliyucelakin.github.io/app/static/js/main.70a67046.chunk.js.map",
-    "runtime-main.js": "/aliyucelakin.github.io/app/static/js/runtime-main.a344d712.js",
-    "runtime-main.js.map": "/aliyucelakin.github.io/app/static/js/runtime-main.a344d712.js.map",
-    "static/js/2.2ec8f007.chunk.js": "/aliyucelakin.github.io/app/static/js/2.2ec8f007.chunk.js",
-    "static/js/2.2ec8f007.chunk.js.map": "/aliyucelakin.github.io/app/static/js/2.2ec8f007.chunk.js.map",
-    "index.html": "/aliyucelakin.github.io/app/index.html",
-    "precache-manifest.05d414818a7549829b80295c3929c035.js": "/aliyucelakin.github.io/app/precache-manifest.05d414818a7549829b80295c3929c035.js",
-    "service-worker.js": "/aliyucelakin.github.io/app/service-worker.js",
-    "static/js/2.2ec8f007.chunk.js.LICENSE.txt": "/aliyucelakin.github.io/app/static/js/2.2ec8f007.chunk.js.LICENSE.txt"
+    "main.js": "/app/static/js/main.70a67046.chunk.js",
+    "main.js.map": "/app/static/js/main.70a67046.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.cd5ea165.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.cd5ea165.js.map",
+    "static/js/2.2ec8f007.chunk.js": "/app/static/js/2.2ec8f007.chunk.js",
+    "static/js/2.2ec8f007.chunk.js.map": "/app/static/js/2.2ec8f007.chunk.js.map",
+    "index.html": "/app/index.html",
+    "precache-manifest.444b973400ec2a271d3b480bf7888e26.js": "/app/precache-manifest.444b973400ec2a271d3b480bf7888e26.js",
+    "service-worker.js": "/app/service-worker.js",
+    "static/js/2.2ec8f007.chunk.js.LICENSE.txt": "/app/static/js/2.2ec8f007.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a344d712.js",
+    "static/js/runtime-main.cd5ea165.js",
     "static/js/2.2ec8f007.chunk.js",
     "static/js/main.70a67046.chunk.js"
   ]
